@@ -1,0 +1,205 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+#landing-page{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.side-texts{
+    display: flex;
+    gap: 40px;
+}
+.side-texts2{
+    padding-top: 50px;
+    display: flex;
+    gap: 40px;
+}
+.emani{
+    width: 100px;
+    height: auto;
+}
+.duo-plants{
+    width: 100px;
+    height: auto;
+}
+.nav-bottom{
+   display: flex;
+}
+.cactus{
+    width: 100px;
+    height: auto;
+}
+.sisal{
+    width: 100px;
+    height: auto;
+}
+.collection{
+    width: 100px;
+    height: auto;
+}
+.nav-bottom{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.enim2{
+    width: 100px;
+    height: auto;
+}
+.ones{
+    display: flex;
+}
+.twos{
+    display: flex;
+}
+.flower{
+    width: 100px;
+}
+.shop1{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    width: 30%;
+    text-align: center;
+}
+.advs{
+    padding-top: 50px;
+    display: flex;
+    gap: 50px;
+    margin-left: 40%;
+}
+#Advert{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.ones{
+    display: flex;
+    gap: 100px;
+}
+.twos{
+    display: flex;
+    gap: 100px;
+}
+
+.feat{
+    text-align: center;
+    padding-top: 50px;
+}
+.body1{
+    display: flex;
+    justify-content: space-around;
+}
+.btn{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    width: 20px;
+}
+.btn{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    width: 15%;
+    text-align: center;
+    
+}
+.grow{
+    margin-left: 40%;
+    padding-top: 50px;
+    padding-top: 50px;
+}
+.btn2{
+   
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    width: 9%;
+    text-align: center;
+    margin-left: 40%;
+}
+.spring{
+    display: flex;
+    justify-content: space-between;
+}
+.spring{
+    padding-top: 50px;
+    display: flex;
+    gap: 250px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.spring2{
+    display: flex;
+    gap: 250px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.spring3{
+    display: flex;
+    gap: 250px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.Cactus-tree{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.bgs{
+    padding-top: 50px;
+
+}
+.Blogs{
+    display: flex;
+    
+    justify-content: space-around;
+}
+.clients-say{
+    margin-left: 30%;
+    padding-top: 50px;
+
+}
+#Feedback{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.last-text{
+    text-align: center;
+}
+.subsc{
+    background-color: green;
+    color: white;
+    width: 50%;
+    text-align: center;
+}
+#footer{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.icons{
+    text-align: center;
+}
+.icons{
+    display: flex;
+    margin-left: 40%;
+}
+.fb2{
+    padding-bottom: 30px;
+    width: 50px;
+    height: auto;
+}
+.fb{
+    width: 50px;
+    height: auto;
+}
+.ftl{
+    margin-left: 40%;
+}
