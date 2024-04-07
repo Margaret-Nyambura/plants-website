@@ -1,3 +1,7 @@
+#container{
+    margin-right: 20%;
+}
+
 .navbar{
     display: flex;
     justify-content: space-around;
@@ -123,7 +127,7 @@
 }
 .spring{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .spring{
     padding-top: 50px;
@@ -202,4 +206,186 @@
 }
 .ftl{
     margin-left: 40%;
+}
+
+@media screen and (min-width:280px) and (max-width:1000px){
+
+    #container{
+        margin-right: 30%;
+    }
+    .navbar{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 2rem;      
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    #landing-page{
+        padding-top: 25px; 
+        margin-left: 2rem;      
+        justify-content: space-around;
+    }
+    .side-texts{
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    }
+    .side-texts2{
+        padding-top: 50px;
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    }
+    .emani{
+        width: 100px;
+        height: auto;
+    }
+    .ones{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .twos{
+        display: flex;
+        flex-direction: column;
+        gap: 100px;
+    }
+    
+    .feat{
+        text-align: center;
+        padding-top: 50px;
+    }
+    .body1{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .btn{
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        align-items: center;
+        width: 20px;
+    }
+    .btn{
+        background-color: green;
+        color: white;
+        border-radius: 5px;
+        width: 15%;
+        text-align: center;
+        
+    }
+    .btn{
+        background-color: green;
+        color: white;
+        border-radius: 5px;
+        width: 15%;
+        text-align: center;
+        
+    }
+    .grow{
+        margin-left: 40%;
+        padding-top: 50px;
+        padding-top: 50px;
+    }
+    .btn2{
+   
+        background-color: green;
+        color: white;
+        border-radius: 5px;
+        width: 9%;
+        text-align: center;
+        margin-left: 40%;
+    }
+    .spring{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .spring{
+        padding-top: 50px;
+        display: flex;
+        flex-direction: column;
+        gap: 250px;
+        margin-left: 100px;
+        margin-right: 100px;
+    
+    }
+    .spring2{
+        display: flex;
+        flex-direction: column;
+        gap: 250px;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    .spring3{
+        display: flex;
+        flex-direction: column;
+        gap: 250px;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    .Cactus-tree{
+        padding-top: 50px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    
+    }
+    .bgs{
+        padding-top: 50px;
+    
+    }
+    .Blogs{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .clients-say{
+        margin-left: 30%;
+        padding-top: 50px;
+    
+    }
+    #Feedback{
+        padding-top: 50px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .last-text{
+        text-align: center;
+    }
+    .subsc{
+        background-color: green;
+        color: white;
+        width: 50%;
+        text-align: center;
+    }
+    #footer{
+        padding-top: 50px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .icons{
+        text-align: center;
+    }
+    .icons{
+        display: flex;
+        flex-direction: column;
+        margin-left: 40%;
+    }
+    .fb2{
+        padding-bottom: 30px;
+        width: 50px;
+        height: auto;
+    }
+    .fb{
+        width: 50px;
+        height: auto;
+    }
+    .ftl{
+        margin-left: 40%;
+    }
+    
 }
